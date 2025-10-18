@@ -7,6 +7,7 @@ public class JenkinsPracticeTest {
 	@Test
 	public void jenkinsTest() {
 		System.out.println("Hi Jenkins");
+		System.out.println("Hi Jenkins1");
 
 	}
 }
